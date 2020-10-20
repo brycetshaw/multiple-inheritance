@@ -1,0 +1,124 @@
+
+This program has been written by: Bryce Shaw.
+Submitted at: 11:59 pm, April 20 , 2020
+
+Testing Functions in class Point:
+X-coordinate: 6
+Y-coordinate: 8
+X-coordinate: 9
+Y-coordinate: 8
+
+The distance between two points m and n is: 3
+Testing Functions in class Square:
+Square Name: SQUARE - S
+X-coordinate: 5
+Y-coordinate: 7
+the area of SQUARE - S is: 144
+the perimeter of SQUARE - S is: 48
+
+Testing Functions in class Rectangle:
+
+Rectangle Name: RECTANGLE A
+X-coordinate: 5
+Y-coordinate: 7
+
+Rectangle Name: RECTANGLE B
+X-coordinate: 16
+Y-coordinate: 7
+the area of RECTANGLE A is: 180
+the perimeter of RECTANGLE A is: 54
+
+The distance between two rectangles is: 11
+Testing copy constructor in class Rectangle:
+
+Rectangle Name: RECTANGLE A
+X-coordinate: 5
+Y-coordinate: 7
+
+Testing assignment operator in class Rectangle:
+
+Rectangle Name: RECTANGLE A
+X-coordinate: 5
+Y-coordinate: 7
+
+Testing Functions in class Circle:
+
+Circle Name: CIRCLE C
+X-coordinate: 3
+Y-coordinate: 5
+the area of CIRCLE C is: 254.34
+the perimeter of CIRCLE C is: 56.52
+
+The distance between rectangle a and circle c is: 2.82843
+
+CutCorner Name: CornerCut rc
+X-coordinate: 6
+Y-coordinate: 5
+Width: 10
+Length: 12
+Radius of cut: 9
+the area of CornerCut rc is: 56.415
+the perimeter of CornerCut rc is: 40.13
+
+The distance between rc and c is: 3Square Name: SQUARE - S
+X-coordinate: 5
+Y-coordinate: 7
+
+the area of SQUARE - S is: 144
+
+the perimeter of SQUARE - S is: 48
+
+Rectangle Name: RECTANGLE A
+X-coordinate: 5
+Y-coordinate: 7
+
+the area of RECTANGLE A is: 180
+
+the perimeter of SQUARE - S is: 54
+
+Circle Name: CIRCLE C
+X-coordinate: 3
+Y-coordinate: 5
+
+the area of CIRCLE C is: 254.34
+
+the circumference of CIRCLE C is: 56.52
+
+CutCorner Name: CornerCut rc
+X-coordinate: 6
+Y-coordinate: 5
+Width: 10
+Length: 12
+Radius of cut: 9
+
+the area of CornerCut rc is: 56.415
+
+the perimeter of CornerCut rc is: 40.13
+
+Testing copy constructor in class CornerCut:
+
+CutCorner Name: CornerCut rc
+X-coordinate: 6
+Y-coordinate: 5
+Width: 10
+Length: 12
+Radius of cut: 9
+
+Testing assignment operator in class CornerCut:
+
+CutCorner Name: CornerCut cc2
+X-coordinate: 2
+Y-coordinate: 5
+Width: 100
+Length: 12
+Radius of cut: 9
+
+CutCorner Name: CornerCut rc
+X-coordinate: 6
+Y-coordinate: 5
+Width: 10
+Length: 12
+Radius of cut: 9
+
+Testing radius should not be bigger than rectangle condition in class CornerCut:
+Error! Radius must not exceed smallest dimension of rectangle
